@@ -1,0 +1,2 @@
+- Depth map(깊이 정보 이미지) 기반 intereactive 3D 이미지 구현
+- React, Vite, PixiJS
